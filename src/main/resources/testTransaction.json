@@ -1,0 +1,11 @@
+{
+  "transactionType": "",
+  "ibanPayer": "",
+  "ibanPayee": "",
+  "walletPayer": "",
+  "walletPayee": "",
+  "cnp": "", // CNP USED FOR initial entries 1998877665544 & 1445566778899
+  "name": " Dan",
+  "description": "",
+  "amount": ""
+}

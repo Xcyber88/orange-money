@@ -1,0 +1,179 @@
+[
+  {
+    "transactionType": "IBAN_TO_IBAN",
+    "ibanPayer": "RO20IBAN123asd2ad2",
+    "ibanPayee": "FR20IBAN123asd2ad2",
+    "walletPayer": "",
+    "walletPayee": "",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "First iban to iban",
+    "amount": 100
+  },
+  {
+    "transactionType": "IBAN_TO_IBAN",
+    "ibanPayer": "RO20IBAN123asd2ad2",
+    "ibanPayee": "FR20IBAN123asd2ad2",
+    "walletPayer": "",
+    "walletPayee": "",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "Second iban to iban",
+    "amount": 200
+  },
+  {
+    "transactionType": "IBAN_TO_WALLET",
+    "ibanPayer": "RO20IBAN123asd2ad2",
+    "ibanPayee": "",
+    "walletPayer": "",
+    "walletPayee": "WALLETID1",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "First iban to wallet",
+    "amount": 100
+  },
+  {
+    "transactionType": "IBAN_TO_WALLET",
+    "ibanPayer": "RO20IBAN123asd2ad2",
+    "ibanPayee": "",
+    "walletPayer": "",
+    "walletPayee": "WALLETID1",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "Second iban to wallet",
+    "amount": 123
+  },
+  {
+    "transactionType": "WALLET_TO_IBAN",
+    "ibanPayer": "",
+    "ibanPayee": "RO20IBAN123asd2ad2",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "First  wallet to iban",
+    "amount": 100
+  },
+  {
+    "transactionType": "WALLET_TO_IBAN",
+    "ibanPayer": "",
+    "ibanPayee": "RO20IBAN123asd2ad2",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "Second  wallet to iban",
+    "amount": 234
+  },
+  {
+    "transactionType": "WALLET_TO_WALLET",
+    "ibanPayer": "",
+    "ibanPayee": "",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "WALLETID2",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "First  wallet to wallet",
+    "amount": 234
+  },
+  {
+    "transactionType": "WALLET_TO_WALLET",
+    "ibanPayer": "",
+    "ibanPayee": "",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "WALLETID2",
+    "cnp": 1998877665544,
+    "name": "Stefanescu Dan",
+    "description": "Second  wallet to wallet",
+    "amount": 2341
+  },
+
+  {
+    "transactionType": "IBAN_TO_IBAN",
+    "ibanPayer": "RO20IBAN12312312313",
+    "ibanPayee": "GB30IBAN23123123131",
+    "walletPayer": "",
+    "walletPayee": "",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "First iban to iban",
+    "amount": 135
+  },
+  {
+    "transactionType": "IBAN_TO_IBAN",
+    "ibanPayer": "RO20IBAN12312312313",
+    "ibanPayee": "GB30IBAN23123123131",
+    "walletPayer": "",
+    "walletPayee": "",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "Second iban to iban",
+    "amount": 321
+  },
+  {
+    "transactionType": "IBAN_TO_WALLET",
+    "ibanPayer": "RO20IBAN12312312313",
+    "ibanPayee": "",
+    "walletPayer": "",
+    "walletPayee": "WALLETID1",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "First iban to wallet",
+    "amount": 132
+  },
+  {
+    "transactionType": "IBAN_TO_WALLET",
+    "ibanPayer": "RO20IBAN12312312313",
+    "ibanPayee": "",
+    "walletPayer": "",
+    "walletPayee": "WALLETID1",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "Second iban to wallet",
+    "amount": 332
+  },
+  {
+    "transactionType": "WALLET_TO_IBAN",
+    "ibanPayer": "",
+    "ibanPayee": "GB30IBAN23123123131",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "First  wallet to iban",
+    "amount": 432
+  },
+  {
+    "transactionType": "WALLET_TO_IBAN",
+    "ibanPayer": "",
+    "ibanPayee": "GB30IBAN23123123131",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "Second  wallet to iban",
+    "amount": 132
+  },
+  {
+    "transactionType": "WALLET_TO_WALLET",
+    "ibanPayer": "",
+    "ibanPayee": "",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "WALLETID2",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "First  wallet to wallet",
+    "amount": 538
+  },
+  {
+    "transactionType": "WALLET_TO_WALLET",
+    "ibanPayer": "",
+    "ibanPayee": "",
+    "walletPayer": "WALLETID1",
+    "walletPayee": "WALLETID2",
+    "cnp": 1445566778899,
+    "name": "Popescu Ion",
+    "description": "Second  wallet to wallet",
+    "amount": 1234
+  }
+]
